@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/nifti/!svn/ver/8723/code/drivers/librover/src/bin
+END
+test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/nifti/!svn/ver/9153/code/drivers/librover/src/bin/test.cc
+END
+jsdrive.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/nifti/!svn/ver/9153/code/drivers/librover/src/bin/jsdrive.c
+END
+calibrate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/nifti/!svn/ver/9153/code/drivers/librover/src/bin/calibrate.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/nifti/!svn/ver/3357/code/drivers/librover/src/bin/CMakeLists.txt
+END

@@ -1,0 +1,7 @@
+remake_include(../lib)
+remake_add_executables(jsdrive jsdrive.c)
+target_link_libraries(jsdrive can can-cpc rover)
+remake_add_executables(calibrate calibrate.cc)
+target_link_libraries(calibrate can can-cpc rover)
+remake_add_executables(test test.cc)
+target_link_libraries(test can can-cpc rover)

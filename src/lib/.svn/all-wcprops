@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/nifti/!svn/ver/8723/code/drivers/librover/src/lib
+END
+rover.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/nifti/!svn/ver/9153/code/drivers/librover/src/lib/rover.cc
+END
+rover.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/nifti/!svn/ver/9153/code/drivers/librover/src/lib/rover.h
+END
+flipper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/nifti/!svn/ver/9153/code/drivers/librover/src/lib/flipper.cc
+END
+flipper.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/nifti/!svn/ver/9153/code/drivers/librover/src/lib/flipper.h
+END
+track.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/nifti/!svn/ver/9153/code/drivers/librover/src/lib/track.cc
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/nifti/!svn/ver/9153/code/drivers/librover/src/lib/types.h
+END
+track.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/nifti/!svn/ver/9153/code/drivers/librover/src/lib/track.h
+END
+00123-90-02_software.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/nifti/!svn/ver/3593/code/drivers/librover/src/lib/00123-90-02_software.pdf
+END
+00123-90-02_SOFTWARE.JPG
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/nifti/!svn/ver/3593/code/drivers/librover/src/lib/00123-90-02_SOFTWARE.JPG
+END
+controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/nifti/!svn/ver/9153/code/drivers/librover/src/lib/controller.cc
+END
+librover.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/nifti/!svn/ver/9153/code/drivers/librover/src/lib/librover.cc
+END
+controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/nifti/!svn/ver/9153/code/drivers/librover/src/lib/controller.h
+END
+librover.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/nifti/!svn/ver/9153/code/drivers/librover/src/lib/librover.h
+END
+core.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/nifti/!svn/ver/9153/code/drivers/librover/src/lib/core.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/nifti/!svn/ver/6280/code/drivers/librover/src/lib/CMakeLists.txt
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/nifti/!svn/ver/9153/code/drivers/librover/src/lib/core.h
+END
